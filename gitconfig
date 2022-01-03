@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = l.m.klingen@gmail.com
+	name = Louise Klingen
